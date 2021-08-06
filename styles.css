@@ -43,7 +43,7 @@ opacity: 1;
 #addbookbtn.on
 {
     transform-origin: center;
-    transform: rotate(45deg);
+    transform: scale(1.1)
 }
 
 #addbookbtn:active
