@@ -39,6 +39,12 @@
   cursor: pointer;
   text-align: center;
   z-index: 999;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+     -moz-user-select: none; /* Old versions of Firefox */
+      -ms-user-select: none; /* Internet Explorer/Edge */
+          user-select: none;
 }
 
 #addbookbtn h1 {
@@ -52,7 +58,6 @@
           transform-origin: center;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
-          user-select: none;
 }
 
 #addbookbtn:active {
