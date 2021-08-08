@@ -1,9 +1,6 @@
 
 #  Library
 ## OdinProject Javascript Project 1
-
- A simple book-manager that allows users to add/remove/sort books and mark them as read or not
-
 ### Live Demo
 [Library 📚](https://sorphil.github.io/Library/)   
 
